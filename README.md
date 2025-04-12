@@ -14,5 +14,5 @@
 ![Screen2](img/Screen2.png)
 
 # Задание 4
-## Создайте свой кастомный дашборд.\
-![Screen3](img/Screen3.png
+## Создайте свой кастомный дашборд.
+![Screen3](img/Screen3.png)
