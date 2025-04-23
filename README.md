@@ -18,3 +18,4 @@
 # Задание 4
 ## Создайте свой кастомный дашборд.
 ![Screen1](img/Screen3-1.png)
+![Screen1](img/Screen-3-2.png)
